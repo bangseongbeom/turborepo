@@ -15,7 +15,7 @@
     "@aws-sdk/lib-storage": "3.926.0",
     "@foobar/utils": "*",
     "compare-versions": "6.1.1",
-    "fastify": "5.6.2",
+    "fastify": "5.12.5",
     "fastify-healthcheck": "5.1.0",
     "ip-matching": "2.1.2",
     "lodash": "4.17.21",
