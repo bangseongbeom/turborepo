@@ -11,7 +11,7 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@repo/mcp-calculator": "workspace:*",
     "@repo/mcp-file-reader": "workspace:*",
     "zod": "^4.4.3"
