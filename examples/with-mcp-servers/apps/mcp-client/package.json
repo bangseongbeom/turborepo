@@ -14,7 +14,7 @@
     "@modelcontextprotocol/sdk": "^1.29.0",
     "@repo/mcp-calculator": "workspace:*",
     "@repo/mcp-file-reader": "workspace:*",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
